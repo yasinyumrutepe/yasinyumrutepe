@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Yasin
+### Hi I'm Yasin 👋  
 
-
+##ERP CRM Systems I work in end-user oriented projects. I write these projects with Go Lang Laravel PHP, Javascript, React
 
 Here are some ideas to get you started:
 
