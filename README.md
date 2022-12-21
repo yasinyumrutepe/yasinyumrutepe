@@ -27,7 +27,7 @@
 <br />
 
 ### GitHub Analytics 📊
-
+  <hr/>
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinyumrutepe&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
 
@@ -40,6 +40,8 @@
 <hr />
 <br />
 ### My First Solidity Project 
+<hr/>
+<br />
 <a href="https://github.com/yasinyumrutepe/counter-solidity">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasinyumrutepe&repo=counter-solidity" />
 </a>
