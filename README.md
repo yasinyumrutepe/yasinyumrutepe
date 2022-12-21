@@ -16,10 +16,8 @@
 
 ### 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsCode]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,js,jquery,php,go,mongodb,mysql,postgres,git,&theme=light)](https://skills.thijs.gg)
 
 
 
@@ -43,7 +41,4 @@
 [instagram]: https://www.instagram.com/yasin.ymrtp
 [linkedin]: https://www.linkedin.com/in/yasin-yumrutepe/
 [gmail]: mailto:yasinyt1834@gmail.com
-[vsCode]: https://code.visualstudio.com/
-[git]: https://git-scm.com/
-[github]: https://github.com/yasinyumrutepe
 
