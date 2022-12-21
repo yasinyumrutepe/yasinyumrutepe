@@ -14,7 +14,7 @@
 <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 
 <br />
-
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinyumrutepe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 <picture>
