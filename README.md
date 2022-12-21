@@ -2,10 +2,9 @@
 
 #### ERP CRM Systems I work on end-user oriented projects. I write these projects with Go Lang Laravel PHP, Javascript, React. I am currently developing myself in the web3 field.
 
-
- <hr/>
-
+<hr/>
 <br />
+
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -36,8 +35,9 @@
 <br />
 <br />
 <br />
-<hr/>
+
 <br />
+<hr/>
 <br />
 
 ### My First Solidity Project 
