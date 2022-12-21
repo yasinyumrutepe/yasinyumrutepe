@@ -37,9 +37,11 @@
 <br />
 <br />
 <br />
-<hr />
+
 <br />
+
 ### My First Solidity Project 
+
 <hr/>
 <br />
 <a href="https://github.com/yasinyumrutepe/counter-solidity">
