@@ -37,8 +37,9 @@
 <br />
 
 <br />
-<hr/>
 <br />
+<hr/>
+<br/>
 
 ### My First Solidity Project 
 
