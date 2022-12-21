@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Go Lang
 - 🌱 I’m currently learning Solidity
 
-<picture>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinyumrutepe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </picture>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=yasinyumrutepe&show_icons=true&theme=dark"
