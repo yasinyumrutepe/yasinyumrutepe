@@ -2,10 +2,6 @@
 
 #### ERP CRM Systems I work in end-user oriented projects. I write these projects with Go Lang Laravel PHP, Javascript, React
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Go Lang
-- 🌱 I’m currently learning Solidity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinyumrutepe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
