@@ -17,7 +17,7 @@
 ### 🔧 Languages and Tools:
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,js,jquery,php,go,mongodb,mysql,postgres,git,&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,js,jquery,php,go,mongodb,mysql,postgres,git,&theme=dark)](https://skills.thijs.gg)
 
 
 
