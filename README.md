@@ -38,3 +38,8 @@
 [linkedin]: https://www.linkedin.com/in/yasin-yumrutepe/
 [gmail]: mailto:yasinyt1834@gmail.com
 
+
+
+<a href="https://github.com/yasinyumrutepe/counter-solidity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasinyumrutepe&repo=counter-solidity" />
+</a>
