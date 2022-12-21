@@ -13,16 +13,14 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
 <br />
- <hr/>
+<hr/>
+ 
 ### 🔧 Languages and Tools:
 
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,js,jquery,php,go,mongodb,mysql,postgres,git,&theme=dark)](https://skills.thijs.gg)
 
- <hr/>
-
-
-
+<hr/>
 <br />
 <br />
 
@@ -30,13 +28,15 @@
 
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinyumrutepe&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 </a>
-  <hr/>
+
+
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
+<hr/>
 <br />
 <br />
 
@@ -50,6 +50,7 @@
 <br />
 <br />
 <hr/>
+
 [instagram]: https://www.instagram.com/yasin.ymrtp
 [linkedin]: https://www.linkedin.com/in/yasin-yumrutepe/
 [gmail]: mailto:yasinyt1834@gmail.com
