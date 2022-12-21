@@ -1,4 +1,4 @@
-## Hi I'm Yasin 👋  
+## Hi I'm Yasin 👋  JR Web Developper
 
 #### ERP CRM Systems I work in end-user oriented projects. I write these projects with Go Lang Laravel PHP, Javascript, React
 
