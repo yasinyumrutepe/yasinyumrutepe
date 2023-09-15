@@ -1,4 +1,4 @@
-## Hi I'm Yasin 👋  JR Web Developper
+## Hi I'm Yasin 👋  Software Developper
 
 #### ERP CRM Systems I work on end-user oriented projects. I write these projects with Go Lang Laravel PHP, Javascript, React. I am currently developing myself in the web3 field.
 
@@ -7,7 +7,6 @@
 
 ### 📩 Connect with me:
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 
