@@ -18,6 +18,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinyumrutepe&" alt="yasinyumrutepe" /></p>
 
 
-![snake gif](https://github.com/yasinyumrutepe/yasinyumrutepe/blob/output/github-contribution-grid-snake.gif)
-
 
